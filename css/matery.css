@@ -268,8 +268,8 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-    opacity: 0.1;
+    background-image: linear-gradient(to right, #266018 0%, #13300c 100%);
+    opacity: 0.8;
     /* 透明度*/
 }
 
