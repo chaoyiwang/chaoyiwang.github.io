@@ -6,7 +6,7 @@
   <link href="https://chaoyiwang.github.io/atom.xml" rel="self"/>
   
   <link href="https://chaoyiwang.github.io/"/>
-  <updated>2020-11-22T05:08:04.684Z</updated>
+  <updated>2020-11-22T05:12:33.075Z</updated>
   <id>https://chaoyiwang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chaoyiwang.github.io/2020-11-22/%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94/"/>
     <id>https://chaoyiwang.github.io/2020-11-22/%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94/</id>
     <published>2020-11-22T07:00:00.000Z</published>
-    <updated>2020-11-22T05:08:04.684Z</updated>
+    <updated>2020-11-22T05:12:33.075Z</updated>
     
     
       
@@ -42,33 +42,6 @@
     <category term="Markdown" scheme="https://chaoyiwang.github.io/tags/Markdown/"/>
     
     <category term="小知识" scheme="https://chaoyiwang.github.io/tags/%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>主题介绍</title>
-    <link href="https://chaoyiwang.github.io/2020-11-18/hello-world/"/>
-    <id>https://chaoyiwang.github.io/2020-11-18/hello-world/</id>
-    <published>2020-11-17T22:25:00.000Z</published>
-    <updated>2020-11-19T08:23:42.865Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://chaoyiwang.github.io/categories/Markdown/"/>
-    
-    
-    <category term="Typora" scheme="https://chaoyiwang.github.io/tags/Typora/"/>
-    
-    <category term="Markdown" scheme="https://chaoyiwang.github.io/tags/Markdown/"/>
     
   </entry>
   
