@@ -425,7 +425,6 @@
 <li>Memcached 是多线程，非阻塞 IO 复用的网络模型，原型上接近 Nignx 。</li>
 <li>Redis 使用单线程的 IO 复用模型，自己封装了一个简单的 AeEvent 事件处理框架，主要实现了 epoll, kqueue 和 select ，更接近 Apache 早期的模式。</li>
 </ul>
-<p>TODO 有点看不懂，找亚普表弟确认中。</p>
 <p><strong>6. 持久化存储</strong></p>
 <ul>
 <li>Memcached 不支持持久化存储，重启时，数据被清空。</li>
@@ -903,14 +902,8 @@
 </ul>
 </li>
 <li><p>2、Master 调用 BGREWRITEAOF 重写 AOF 文件，AOF 在重写的时候会占大量的 CPU 和内存资源，导致服务 load 过高，出现短暂服务暂停现象。</p>
-<ul>
-<li>TODO 怎么解决？</li>
-</ul>
 </li>
 <li><p>3、尽量避免在压力很大的主库上增加从库。</p>
-<ul>
-<li>TODO 怎么解决？</li>
-</ul>
 </li>
 <li><p>4、主从复制不要用图状结构，用单向链表结构更为稳定，即：</p>
 <figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Master &lt;- Slave1 &lt;- Slave2 &lt;- Slave3...。</span><br></pre></td></tr></tbody></table></figure>
