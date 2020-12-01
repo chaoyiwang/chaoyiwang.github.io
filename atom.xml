@@ -6,7 +6,7 @@
   <link href="https://chaoyiwang.github.io/atom.xml" rel="self"/>
   
   <link href="https://chaoyiwang.github.io/"/>
-  <updated>2020-11-23T13:10:09.279Z</updated>
+  <updated>2020-12-01T10:42:11.557Z</updated>
   <id>https://chaoyiwang.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「Redis」Redis觉得你拔刀的速度太慢了</title>
+    <link href="https://chaoyiwang.github.io/2020-12-01/TalkAboutRedis/"/>
+    <id>https://chaoyiwang.github.io/2020-12-01/TalkAboutRedis/</id>
+    <published>2020-12-01T07:00:00.000Z</published>
+    <updated>2020-12-01T10:42:11.557Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Redis觉得你拔刀的速度太慢了&quot;&gt;&lt;a href=&quot;#Redis觉得你拔刀的速度太慢了&quot; class=&quot;headerlink&quot; title=&quot;Redis觉得你拔刀的速度太慢了&quot;&gt;&lt;/a&gt;Redis觉得你拔刀的速度太慢了&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="https://chaoyiwang.github.io/categories/Redis/"/>
+    
+    
+    <category term="Typora" scheme="https://chaoyiwang.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="https://chaoyiwang.github.io/tags/Markdown/"/>
+    
+    <category term="Redis" scheme="https://chaoyiwang.github.io/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>「珍环传」皖南秋色</title>
