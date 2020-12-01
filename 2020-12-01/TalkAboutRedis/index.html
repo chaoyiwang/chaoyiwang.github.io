@@ -338,7 +338,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>Word Count:&nbsp;&nbsp;
-                    12.6k
+                    11.5k
                 </div>
                 
 
@@ -689,7 +689,7 @@
 <li>这时候你要给予惊讶的反馈：唉，是喔，这个锁就永远得不到释放了。紧接着你需要抓一抓自己得脑袋，故作思考片刻，好像接下来的结果是你主动思考出来的，然后回答：我记得 set 指令有非常复杂的参数，这个应该是可以同时把 setnx 和 expire 合成一条指令来用的！对方这时会显露笑容，心里开始默念：摁，这小子还不错。</li>
 </ul>
 <p>所以，我们可以使用 <strong>set</strong> 指令，实现分布式锁。指令如下：</p>
-<pre><code>SET key value [EX seconds] [PX milliseconds] [NX|XX]</code></pre>
+<pre class=" language-shell"><code class="language-shell">SET key value [EX seconds] [PX milliseconds] [NX|XX]</code></pre>
 <ul>
 <li>可以使用 <code>SET key value EX seconds NX</code> 命令，尝试获得锁。</li>
 <li>具体的实现，可以参考 <a target="_blank" rel="noopener" href="https://wudashan.cn/2017/10/23/Redis-Distributed-Lock-Implement/">《Redis 分布式锁的正确实现方式（Java版）》</a> 文章。</li>
@@ -905,7 +905,7 @@
 <li><p>3、尽量避免在压力很大的主库上增加从库。</p>
 </li>
 <li><p>4、主从复制不要用图状结构，用单向链表结构更为稳定，即：</p>
-<pre><code>Master &lt;- Slave1 &lt;- Slave2 &lt;- Slave3...。</code></pre>
+<pre class=" language-shell"><code class="language-shell">Master <- Slave1 <- Slave2 <- Slave3...。</code></pre>
 <ul>
 <li>这样的结构，也方便解决单点故障问题，实现 Slave 对 Master 的替换。如果 Master挂了，可以立刻启用 Slave1 做 Master ，其他不变。</li>
 </ul>
@@ -1584,7 +1584,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">14.9k</span>&nbsp;字
+                class="white-color">13.8k</span>&nbsp;字
             
             
             
