@@ -6,7 +6,7 @@
   <link href="https://chaoyiwang.github.io/atom.xml" rel="self"/>
   
   <link href="https://chaoyiwang.github.io/"/>
-  <updated>2020-12-01T11:16:43.287Z</updated>
+  <updated>2020-12-02T02:39:32.000Z</updated>
   <id>https://chaoyiwang.github.io/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://chaoyiwang.github.io/2020-12-02/SpringDataJPA/"/>
+    <id>https://chaoyiwang.github.io/2020-12-02/SpringDataJPA/</id>
+    <published>2020-12-02T02:39:32.000Z</published>
+    <updated>2020-12-02T02:39:32.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>「Redis」Redis觉得你拔刀的速度太慢了</title>
     <link href="https://chaoyiwang.github.io/2020-12-01/TalkAboutRedis/"/>
     <id>https://chaoyiwang.github.io/2020-12-01/TalkAboutRedis/</id>
     <published>2020-12-01T07:00:00.000Z</published>
-    <updated>2020-12-01T11:16:43.287Z</updated>
+    <updated>2020-12-01T11:16:44.000Z</updated>
     
     
       
@@ -50,7 +63,7 @@
     <link href="https://chaoyiwang.github.io/2020-11-23/AutumnInAnhui/"/>
     <id>https://chaoyiwang.github.io/2020-11-23/AutumnInAnhui/</id>
     <published>2020-11-23T07:00:00.000Z</published>
-    <updated>2020-11-23T13:10:09.279Z</updated>
+    <updated>2020-11-23T13:10:10.000Z</updated>
     
     
       
@@ -79,7 +92,7 @@
     <link href="https://chaoyiwang.github.io/2020-11-22/InfrastructureInChina/"/>
     <id>https://chaoyiwang.github.io/2020-11-22/InfrastructureInChina/</id>
     <published>2020-11-22T07:00:00.000Z</published>
-    <updated>2020-12-01T10:54:38.832Z</updated>
+    <updated>2020-12-01T10:54:40.000Z</updated>
     
     
       
